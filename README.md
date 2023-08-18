@@ -1,1 +1,1 @@
-<iframe src="nyc_markets_hmap.html" height="500" width="500"></iframe>
+<iframe src="nyc_markets_hmap.html" height="700" width="1000"></iframe>
